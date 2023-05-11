@@ -9,26 +9,26 @@ export default function TrainingBicepsForHypertrophy() {
         they also play a key role in many upper body movements, such as pulling
         exercises like rows and chin-ups. But when it comes to training biceps
         for hypertrophy (muscle growth), there are a few key principles to keep
-        in mind. In this blog, we'll go over those principles and provide some
-        tips for maximizing your biceps gains.
+        in mind. In this blog, we&apos;ll go over those principles and provide
+        some tips for maximizing your biceps gains.
       </p>
 
       <h2>Focus on compound movements</h2>
 
       <p>
         While isolation exercises like bicep curls can be effective for
-        hypertrophy, they shouldn't be the main focus of your bicep training.
-        Instead, you should prioritize compound movements that work multiple
-        muscle groups at once, like rows and chin-ups.
+        hypertrophy, they shouldn&apos;t be the main focus of your bicep
+        training. Instead, you should prioritize compound movements that work
+        multiple muscle groups at once, like rows and chin-ups.
       </p>
 
       <p>
         These exercises not only stimulate the biceps directly, but also recruit
         other muscles like the back and forearms, leading to a greater overall
-        stimulus for muscle growth. Plus, because they're more difficult than
-        isolation exercises, you'll be able to lift heavier weights and generate
-        more mechanical tension in the biceps, which is a key driver of
-        hypertrophy.
+        stimulus for muscle growth. Plus, because they&apos;re more difficult
+        than isolation exercises, you&apos;ll be able to lift heavier weights
+        and generate more mechanical tension in the biceps, which is a key
+        driver of hypertrophy.
       </p>
 
       <p>Some examples of compound bicep exercises include:</p>
@@ -43,18 +43,19 @@ export default function TrainingBicepsForHypertrophy() {
       <h2>Use a variety of rep ranges</h2>
 
       <p>
-        To maximize hypertrophy, it's important to use a range of rep ranges in
-        your bicep training. While there's no one "best" rep range for
-        hypertrophy, research suggests that a combination of low reps (1-5),
-        moderate reps (6-12), and high reps (13-20+) can all be effective.
+        To maximize hypertrophy, it&apos;s important to use a range of rep
+        ranges in your bicep training. While there&apos;s no one
+        &quot;best&quot; rep range for hypertrophy, research suggests that a
+        combination of low reps (1-5), moderate reps (6-12), and high reps
+        (13-20+) can all be effective.
       </p>
 
       <p>
         Low reps are effective for building strength and neural adaptations,
         which can lead to improved performance in other exercises. Moderate reps
-        are the "sweet spot" for hypertrophy, as they stimulate muscle fibers
-        across a range of muscle fibers. High reps are effective for increasing
-        metabolic stress, which can help trigger muscle growth.
+        are the &quot;sweet spot&quot; for hypertrophy, as they stimulate muscle
+        fibers across a range of muscle fibers. High reps are effective for
+        increasing metabolic stress, which can help trigger muscle growth.
       </p>
 
       <p>
@@ -76,17 +77,17 @@ export default function TrainingBicepsForHypertrophy() {
       </p>
 
       <p>
-        However, it's important to increase training volume gradually, rather
-        than trying to make big jumps all at once. A good rule of thumb is to
-        increase your training volume by no more than 10% per week.
+        However, it&apos;s important to increase training volume gradually,
+        rather than trying to make big jumps all at once. A good rule of thumb
+        is to increase your training volume by no more than 10% per week.
       </p>
 
       <h2>Focus on progressive overload</h2>
 
       <p>
         Progressive overload refers to the gradual increase in stress placed on
-        the muscle over time. Without progressive overload, your muscles won't
-        have a reason to grow.
+        the muscle over time. Without progressive overload, your muscles
+        won&apos;t have a reason to grow.
       </p>
 
       <p>
@@ -104,24 +105,26 @@ export default function TrainingBicepsForHypertrophy() {
       </ul>
 
       <p>
-        However, it's important to note that progressive overload doesn't mean
-        you need to lift heavier and heavier weights every week. Instead, you
-        should aim to gradually increase the overall stress placed on the
-        muscle, which can be achieved in a number of ways.
+        However, it&apos;s important to note that progressive overload
+        doesn&apos;t mean you need to lift heavier and heavier weights every
+        week. Instead, you should aim to gradually increase the overall stress
+        placed on the muscle, which can be achieved in a number of ways.
       </p>
 
-      <h2 className="text-3xl font-medium mb-5">Don't neglect the basics</h2>
+      <h2 className="text-3xl font-medium mb-5">
+        Don&apos;t neglect the basics
+      </h2>
 
       <p>
-        While it's tempting to try the latest and greatest bicep exercises and
-        techniques, it's important not to neglect the basics of bicep training.
-        These include:
+        While it&apos;s tempting to try the latest and greatest bicep exercises
+        and techniques, it&apos;s important not to neglect the basics of bicep
+        training. These include:
       </p>
       <ul>
         <li>
-          Full range of motion: Make sure you're performing exercises through a
-          full range of motion to ensure maximum activation of the biceps muscle
-          fibers.
+          Full range of motion: Make sure you&apos;re performing exercises
+          through a full range of motion to ensure maximum activation of the
+          biceps muscle fibers.
         </li>
         <li>
           Proper form: Correct form is essential for maximizing muscle
@@ -131,18 +134,18 @@ export default function TrainingBicepsForHypertrophy() {
         </li>
         <li>
           Consistency: Building muscle takes time and consistency. Aim to train
-          your biceps at least twice a week, and make sure you're consistently
-          increasing your training volume over time.
+          your biceps at least twice a week, and make sure you&apos;re
+          consistently increasing your training volume over time.
         </li>
         <li>
           Recovery: Adequate recovery is essential for muscle growth. Make sure
-          you're getting enough sleep, eating a balanced diet, and giving your
-          biceps at least 48 hours of rest between workouts.
+          you&apos;re getting enough sleep, eating a balanced diet, and giving
+          your biceps at least 48 hours of rest between workouts.
         </li>
       </ul>
 
       <p>
-        With these principles in mind, let's take a look at a sample bicep
+        With these principles in mind, let&apos;s take a look at a sample bicep
         workout that incorporates a variety of exercises and rep ranges.
       </p>
 
@@ -216,61 +219,61 @@ export default function TrainingBicepsForHypertrophy() {
         </li>
         <li>
           Train to failure: Training to failure (i.e. performing reps until you
-          can't perform any more with good form) can help maximize muscle fiber
-          recruitment and stimulate hypertrophy. However, this technique should
-          be used sparingly and with caution, as it can increase the risk of
-          injury and overtraining.
+          can&apos;t perform any more with good form) can help maximize muscle
+          fiber recruitment and stimulate hypertrophy. However, this technique
+          should be used sparingly and with caution, as it can increase the risk
+          of injury and overtraining.
         </li>
         <li>
-          Prioritize your biceps: If you're serious about building big biceps,
-          it's important to prioritize them in your training program. This might
-          mean training them before other muscle groups, or dedicating a
-          separate day specifically to bicep training.
+          Prioritize your biceps: If you&apos;re serious about building big
+          biceps, it&apos;s important to prioritize them in your training
+          program. This might mean training them before other muscle groups, or
+          dedicating a separate day specifically to bicep training.
         </li>
       </ul>
 
       <p>
-        Remember, building muscle takes time and consistency. Don't get
-        discouraged if you don't see immediate results - stick with your
+        Remember, building muscle takes time and consistency. Don&apos;t get
+        discouraged if you don&apos;t see immediate results - stick with your
         training program and focus on gradually increasing your training volume
         over time. With patience and persistence, you can achieve the impressive
-        biceps you've always wanted.
+        biceps you&apos;ve always wanted.
       </p>
 
       <p>
-        It's also important to note that diet and nutrition play a crucial role
-        in building muscle. To maximize hypertrophy, make sure you're consuming
-        enough calories and protein to support muscle growth. Aim to consume a
-        protein-rich meal or snack within 30 minutes of finishing your workout
-        to help kickstart the muscle repair process. Some good sources of
-        protein include lean meats, fish, eggs, dairy, and plant-based sources
-        like beans and tofu.
+        It&apos;s also important to note that diet and nutrition play a crucial
+        role in building muscle. To maximize hypertrophy, make sure you&apos;re
+        consuming enough calories and protein to support muscle growth. Aim to
+        consume a protein-rich meal or snack within 30 minutes of finishing your
+        workout to help kickstart the muscle repair process. Some good sources
+        of protein include lean meats, fish, eggs, dairy, and plant-based
+        sources like beans and tofu.
       </p>
 
       <p>
-        In addition to protein, make sure you're consuming enough carbohydrates
-        to provide energy for your workouts and support muscle growth. Complex
-        carbohydrates like whole grains, fruits, and vegetables are a good
-        choice, as they provide sustained energy without causing blood sugar
-        spikes.
+        In addition to protein, make sure you&apos;re consuming enough
+        carbohydrates to provide energy for your workouts and support muscle
+        growth. Complex carbohydrates like whole grains, fruits, and vegetables
+        are a good choice, as they provide sustained energy without causing
+        blood sugar spikes.
       </p>
       <p>
-        Finally, don't neglect the importance of rest and recovery. Adequate
-        sleep is essential for muscle growth, as it's during this time that the
-        body repairs and builds new muscle tissue. Aim for 7-9 hours of sleep
-        per night, and consider incorporating relaxation techniques like
-        meditation or yoga into your routine to help manage stress and promote
-        recovery.
+        Finally, don&apos;t neglect the importance of rest and recovery.
+        Adequate sleep is essential for muscle growth, as it&apos;s during this
+        time that the body repairs and builds new muscle tissue. Aim for 7-9
+        hours of sleep per night, and consider incorporating relaxation
+        techniques like meditation or yoga into your routine to help manage
+        stress and promote recovery.
       </p>
       <p>
         In conclusion, training biceps for hypertrophy requires a combination of
         compound exercises, isolation exercises, and a variety of rep ranges. By
         incorporating these principles into your bicep training, along with
         proper form, consistency, and recovery, you can maximize your gains and
-        achieve the impressive biceps you've always wanted. Don't forget the
-        importance of nutrition and rest, as these are essential for supporting
-        muscle growth and recovery. With dedication and patience, you can build
-        the muscular, toned physique you've always dreamed of.
+        achieve the impressive biceps you&apos;ve always wanted. Don&apos;t
+        forget the importance of nutrition and rest, as these are essential for
+        supporting muscle growth and recovery. With dedication and patience, you
+        can build the muscular, toned physique you&apos;ve always dreamed of.
       </p>
     </main>
   );
