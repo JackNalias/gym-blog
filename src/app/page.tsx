@@ -22,11 +22,11 @@ export default function Home() {
   ];
 
   return (
-    <main className="container mx-auto pt-28 mb-20">
+    <main className="container mx-auto pt-20 mb-20 ps-5 pb-5 pe-5">
       <h1 className="text-5xl mb-11">
         Gym Head: Everything you need to know about the gym in 2023
       </h1>
-      <div className="flex text-lg">
+      <div className="flex text-lg justify-center md:justify-normal">
         {blogs.map((blog) => (
           <a
             href={blog.link}
