@@ -200,12 +200,14 @@ export default function TrainingBicepsForHypertrophy() {
 
       <ul className="list-decimal">
         <li>
+          <span>1.</span>
           Use a variety of grips: Changing up your grip can help target
           different areas of the biceps and keep your workouts interesting. For
           example, you could try narrow grip chin-ups, reverse grip curls, or
           preacher curls with an underhand grip.
         </li>
         <li>
+          <span>2.</span>
           Incorporate supersets and dropsets: Supersets involve performing two
           exercises back-to-back with minimal rest, while dropsets involve
           performing a set with a heavy weight and then immediately reducing the
@@ -213,11 +215,13 @@ export default function TrainingBicepsForHypertrophy() {
           the intensity of your workouts and stimulate muscle growth.
         </li>
         <li>
+          <span>3.</span>
           Use bands or chains: Adding resistance bands or chains to your bicep
           exercises can help increase the resistance throughout the range of
           motion, leading to greater muscle activation and hypertrophy.
         </li>
         <li>
+          <span>4.</span>
           Train to failure: Training to failure (i.e. performing reps until you
           can&apos;t perform any more with good form) can help maximize muscle
           fiber recruitment and stimulate hypertrophy. However, this technique
@@ -225,6 +229,7 @@ export default function TrainingBicepsForHypertrophy() {
           of injury and overtraining.
         </li>
         <li>
+          <span>5.</span>
           Prioritize your biceps: If you&apos;re serious about building big
           biceps, it&apos;s important to prioritize them in your training
           program. This might mean training them before other muscle groups, or
