@@ -22,7 +22,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className="text-neutral-700">
       <body className={inter.className}>
         <PrimaryHeader />
         {children}
