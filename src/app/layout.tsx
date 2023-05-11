@@ -1,8 +1,14 @@
-import "./globals.css";
+import "./globals.scss";
 import React from "react";
-import { Inter } from "next/font/google";
+import { Roboto } from "next/font/google";
+import PrimaryHeader from "@/components/PrimaryHeader";
+import PrimaryFooter from "@/components/PrimaryFooter";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Roboto({
+  weight: ["100", "300", "400", "500", "700", "900"],
+  style: ["normal", "italic"],
+  subsets: ["latin"],
+});
 
 export const metadata = {
   title: "Gym Head Blog",
@@ -17,7 +23,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <PrimaryHeader />
+        {children}
+        <PrimaryFooter />
+      </body>
     </html>
   );
 }
