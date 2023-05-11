@@ -33,9 +33,16 @@ export default function Home() {
             key={blog.title}
             className="flex flex-col w-96 border p-4 rounded-md border-neutral-700 hover:cursor-pointer "
           >
-            <h2 className="font-medium text-2xl mb-3">{blog.title}</h2>
-            <p>{blog.excerpt}</p>
-            <span className="font-medium italic mt-2">{blog.date}</span>
+            <h2 className="font-medium text-2xl ">{blog.title}</h2>
+            <span className="font-medium italic mt-2 text-right">
+              {blog.date}
+            </span>
+            <p className="mb-3">{blog.excerpt}</p>
+            <div className="flex justify-center">
+              <div className="px-1 py-1 border border-neutral-700 w-32 text-center rounded-md align-middle content-center">
+                Read More
+              </div>
+            </div>
           </a>
         ))}
       </div>
