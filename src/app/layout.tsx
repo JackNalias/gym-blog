@@ -1,6 +1,7 @@
 import "./globals.scss";
 import React from "react";
 import { Roboto } from "next/font/google";
+import Script from "next/script";
 import PrimaryHeader from "@/components/PrimaryHeader";
 import PrimaryFooter from "@/components/PrimaryFooter";
 
@@ -23,6 +24,21 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="text-neutral-700">
+      <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+      />
+
+      <Script strategy="lazyOnload" id="googleAnalytics">
+        {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}', {
+        page_path: window.location.pathname,
+        });
+    `}
+      </Script>
       <body className={inter.className}>
         <PrimaryHeader />
         {children}
