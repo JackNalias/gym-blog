@@ -39,6 +39,12 @@ export default function RootLayout({
         });
     `}
       </Script>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="wNHuGzZrO-0--WGBkXr75EDdbWp_2mJfr_xhXXWp6mg"
+        />
+      </head>
       <body className={inter.className}>
         <PrimaryHeader />
         {children}
