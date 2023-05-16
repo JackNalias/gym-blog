@@ -1,3 +1,14 @@
+export const metadata = {
+  title: "Gym Head Blog - Training Biceps for Hypertrophy",
+  description: `Biceps are one of the most popular muscle groups to train in the gym,
+  and for good reason. Not only do well-developed biceps look impressive,
+  they also play a key role in many upper body movements, such as pulling
+  exercises like rows and chin-ups. But when it comes to training biceps
+  for hypertrophy (muscle growth), there are a few key principles to keep
+  in mind. In this blog, we&apos;ll go over those principles and provide
+  some tips for maximizing your biceps gains.`,
+};
+
 export default function TrainingBicepsForHypertrophy() {
   return (
     <main className="blog">
