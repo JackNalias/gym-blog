@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Gym Head Blog - Unlocking Tricep Hypertrophy",
+  title: "Gym Thinker - Unlocking Tricep Hypertrophy",
   description: `Building well-developed triceps not only enhances the aesthetics of your
     arms but also plays a crucial role in overall upper body strength and
     functionality. To achieve significant tricep hypertrophy, it is

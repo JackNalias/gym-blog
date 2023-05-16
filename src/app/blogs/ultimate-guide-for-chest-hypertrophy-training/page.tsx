@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Gym Head Blog - Ultimate Guide to Chest Hypertrophy",
+  title: "Gym Thinker - Ultimate Guide to Chest Hypertrophy",
   description: `Welcome to the ultimate guide on training your chest for hypertrophy!
   Building a strong and well-defined chest is a goal shared by many
   fitness enthusiasts. In this comprehensive blog, we will delve into

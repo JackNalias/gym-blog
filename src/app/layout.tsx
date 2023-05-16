@@ -2,8 +2,8 @@ import "./globals.scss";
 import React from "react";
 import { Roboto } from "next/font/google";
 import Script from "next/script";
-import PrimaryHeader from "@/components/PrimaryHeader";
-import PrimaryFooter from "@/components/PrimaryFooter";
+import PrimaryHeader from "@/app/components/PrimaryHeader";
+import PrimaryFooter from "@/app/components/PrimaryFooter";
 
 const inter = Roboto({
   weight: ["100", "300", "400", "500", "700", "900"],
@@ -12,9 +12,9 @@ const inter = Roboto({
 });
 
 export const metadata = {
-  title: "Gym Head Blog",
+  title: "Gym Thinker",
   description:
-    "Gym head: everything you need to know about the gym in 2023, including bodybuilding (hypertrophy), strength, power-lifting, diet, nutrition, cardio and endurance training.",
+    "Gym Thinker: everything you need to know about the gym in 2023, including bodybuilding (hypertrophy), strength, power-lifting, diet, nutrition, cardio and endurance training.",
 };
 
 export default function RootLayout({
