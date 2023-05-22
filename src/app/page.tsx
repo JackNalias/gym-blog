@@ -44,6 +44,17 @@ export default function Home() {
       lifter, these tips will help you optimize your chest training routine.
       Let's get started!`,
     },
+    {
+      title: "The Ultimate Guide to Back Hypertrophy Training",
+      link: "/blogs/ultimate-guide-for-back-hypertrophy-training",
+      date: "2023-05-22",
+      excerpt: `A well-developed back not only enhances your overall physique but also
+      plays a crucial role in improving posture, strength, and overall
+      athletic performance. If you're looking to build an impressive and
+      powerful back, this comprehensive guide is tailored just for you. In
+      this article, we will delve into effective training strategies and
+      provide practical tips to maximize hypertrophy in your back muscles.`,
+    },
   ];
 
   return (
