@@ -55,6 +55,20 @@ export default function Home() {
       this article, we will delve into effective training strategies and
       provide practical tips to maximize hypertrophy in your back muscles.`,
     },
+    {
+      title: "The Ultimate Guide to Shoulder Hypertrophy Training",
+      link: "/blogs/ultimate-guide-for-shoulder-hypertrophy-training",
+      date: "2023-05-22",
+      excerpt: `When it comes to building an impressive physique, well-developed
+      shoulders can make all the difference. Not only do they create a
+      powerful V-taper, but strong and sculpted delts also enhance overall
+      upper body strength and stability. Whether you're a bodybuilder,
+      athlete, or fitness enthusiast, optimizing your shoulder training for
+      hypertrophy is crucial. In this comprehensive guide, we will delve into
+      effective exercises, training principles, and essential tips to help you
+      achieve awe-inspiring shoulder gains. Get ready to take your shoulder
+      workouts to the next level!`,
+    },
   ];
 
   return (
