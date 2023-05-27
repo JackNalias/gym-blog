@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "Gym Thinker - Ultimate Guide to Back Hypertrophy",
   description: `A well-developed back not only enhances your overall physique but also
@@ -103,7 +105,14 @@ export default function UnlockingTricepHypertrophy() {
         muscle growth. Adequate sleep, proper nutrition, and strategic rest days
         play a crucial role in facilitating muscle repair and growth. Aim for
         7-9 hours of quality sleep each night and provide at least 48 hours of
-        recovery between intense back training sessions.
+        recovery between{" "}
+        <Link
+          className="underline text-blue-900 hover:text-blue-700"
+          href="/blogs/bodybuilding/bodybuilding-with-intensity"
+        >
+          intense
+        </Link>{" "}
+        back training sessions.
       </p>
 
       <h2>Nutrition and Supplementation</h2>

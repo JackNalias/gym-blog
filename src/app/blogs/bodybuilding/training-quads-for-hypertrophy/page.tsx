@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "Gym Thinker - Training Quads for Hypertrophy",
   description: `When it comes to building an impressive set of legs, few muscles are as
@@ -72,8 +74,14 @@ export default function TrainingBicepsForHypertrophy() {
       <p>
         While compound exercises form the foundation of your quad training,
         isolation exercises specifically target the quads, allowing for a more
-        focused and intense stimulus. Here are some effective quad isolation
-        exercises:
+        focused and{" "}
+        <Link
+          className="underline text-blue-900 hover:text-blue-700"
+          href="/blogs/bodybuilding/bodybuilding-with-intensity"
+        >
+          intense stimulus
+        </Link>
+        . Here are some effective quad isolation exercises:
       </p>
       <ul className="list-decimal">
         <li>

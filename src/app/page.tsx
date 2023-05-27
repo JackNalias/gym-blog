@@ -72,7 +72,7 @@ export default function Home() {
     {
       title:
         "Quad Hypertrophy: The Ultimate Guide to Training for Massive Legs",
-      link: "/blogs/bodybuilding/bodybuildingtraining-quads-for-hypertrophy",
+      link: "/blogs/bodybuilding/training-quads-for-hypertrophy",
       date: "2023-05-27",
       excerpt: `When it comes to building an impressive set of legs, few muscles are as
       crucial as the quadriceps. The quads are responsible for knee extension
@@ -82,6 +82,20 @@ export default function Home() {
       effectively. In this comprehensive guide, we'll explore the key
       principles and exercises that can help you maximize quad development.
       Get ready to take your leg gains to the next level!`,
+    },
+    {
+      title:
+        "Unleashing the Power of Intensity in Bodybuilding: The Key to Maximum Gains",
+      link: "/blogs/bodybuilding/bodybuilding-with-intensity",
+      date: "2023-05-27",
+      excerpt: `In the realm of bodybuilding, intensity reigns supreme. It is the
+      driving force that separates the ordinary from the extraordinary,
+      enabling individuals to sculpt their dream physiques. In this blog, we
+      will explore the concept of intensity in bodybuilding, understanding its
+      meaning, significance, and the transformative impact it can have on
+      one's training journey. From the physiological aspects to the mental
+      fortitude required, we will delve into why intensity is paramount in
+      bodybuilding and what it truly means to train with intensity.`,
     },
   ];
 
