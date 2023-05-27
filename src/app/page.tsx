@@ -69,6 +69,20 @@ export default function Home() {
       achieve awe-inspiring shoulder gains. Get ready to take your shoulder
       workouts to the next level!`,
     },
+    {
+      title:
+        "Quad Hypertrophy: The Ultimate Guide to Training for Massive Legs",
+      link: "/blogs/training-quads-for-hypertrophy",
+      date: "2023-05-27",
+      excerpt: `When it comes to building an impressive set of legs, few muscles are as
+      crucial as the quadriceps. The quads are responsible for knee extension
+      and play a significant role in lower body strength and stability. If
+      your goal is to achieve hypertrophy (muscle growth) in your quads,
+      you'll need a well-designed training program that targets these muscles
+      effectively. In this comprehensive guide, we'll explore the key
+      principles and exercises that can help you maximize quad development.
+      Get ready to take your leg gains to the next level!`,
+    },
   ];
 
   return (
