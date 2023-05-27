@@ -9,7 +9,7 @@ export default function Home() {
   const blogs: Array<Blog> = [
     {
       title: "Training Biceps for Hypertrophy (Bodybuilding)",
-      link: "/blogs/training-biceps-for-hypertrophy",
+      link: "/blogs/bodybuilding/training-biceps-for-hypertrophy",
       date: "2023-05-11",
       excerpt: `Biceps are one of the most popular muscle groups to train in the gym, 
       and for good reason. Not only do well-developed biceps look impressive,
@@ -21,7 +21,7 @@ export default function Home() {
     },
     {
       title: "Unlocking Tricep Hypertrophy",
-      link: "/blogs/unlocking-tricep-hypertrophy",
+      link: "/blogs/bodybuilding/unlocking-tricep-hypertrophy",
       date: "2023-05-16",
       excerpt: `Building well-developed triceps not only enhances the aesthetics of your
       arms but also plays a crucial role in overall upper body strength and
@@ -34,7 +34,7 @@ export default function Home() {
     },
     {
       title: "The Ultimate Guide to Chest Hypertrophy Training",
-      link: "/blogs/ultimate-guide-for-chest-hypertrophy-training",
+      link: "/blogs/bodybuilding/ultimate-guide-for-chest-hypertrophy-training",
       date: "2023-05-16",
       excerpt: `Welcome to the ultimate guide on training your chest for hypertrophy!
       Building a strong and well-defined chest is a goal shared by many
@@ -46,7 +46,7 @@ export default function Home() {
     },
     {
       title: "The Ultimate Guide to Back Hypertrophy Training",
-      link: "/blogs/ultimate-guide-for-back-hypertrophy-training",
+      link: "/blogs/bodybuilding/ultimate-guide-for-back-hypertrophy-training",
       date: "2023-05-22",
       excerpt: `A well-developed back not only enhances your overall physique but also
       plays a crucial role in improving posture, strength, and overall
@@ -57,7 +57,7 @@ export default function Home() {
     },
     {
       title: "The Ultimate Guide to Shoulder Hypertrophy Training",
-      link: "/blogs/ultimate-guide-for-shoulder-hypertrophy-training",
+      link: "/blogs/bodybuilding/ultimate-guide-for-shoulder-hypertrophy-training",
       date: "2023-05-22",
       excerpt: `When it comes to building an impressive physique, well-developed
       shoulders can make all the difference. Not only do they create a
@@ -72,7 +72,7 @@ export default function Home() {
     {
       title:
         "Quad Hypertrophy: The Ultimate Guide to Training for Massive Legs",
-      link: "/blogs/training-quads-for-hypertrophy",
+      link: "/blogs/bodybuilding/bodybuildingtraining-quads-for-hypertrophy",
       date: "2023-05-27",
       excerpt: `When it comes to building an impressive set of legs, few muscles are as
       crucial as the quadriceps. The quads are responsible for knee extension
